@@ -77,5 +77,6 @@ const contributors = [
   { username: 'SayedZahur786', message: 'Hello Zenika, Thanks for this Pr'},
   { username: 'RJSIN147', message: 'Thanks for this repo.'},
   { username: 'Khushboo1324', message: 'Thanks for this pr.'}
+  { username: 'kushals256', message: 'happy hacktoberfest'}
   
 ];
